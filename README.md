@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/realvijayrs" target="blank"><img src="https://img.shields.io/twitter/follow/realvijayrs?logo=twitter&style=for-the-badge" alt="realvijayrs" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [vijayrs.ml](https://vijayrs.ml)
+- 👨‍💻 All of my projects are available at [vijayrs.com](https://vijayrs.com)
 
-- 📝 I regularly write articles on [vijayrs.ml/articles](https://vijayrs.ml/articles)
+- 📝 I regularly write articles on [vijayrs.com/articles](https://vijayrs.com/articles)
 
 - 📫 How to reach me **vijayrshan@gmail.com**
 
-- 📄 Know about my experiences [vijayrs.ml/resume](https://vijayrs.ml/resume)
+- 📄 Know about my experiences [vijayrs.com/resume](https://vijayrs.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
